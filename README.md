@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋 I'm Christophe a junior Frontend developer 
 
-<!--
-**Kristro/Kristro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here are my tech stack :arrow_down:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:heavy_check_mark: Html
+
+:heavy_check_mark: CSS / SCSS
+
+:heavy_check_mark: Javascript 
+
+:heavy_check_mark: React
+
+:heavy_check_mark: Mongo DB / Mongoose
+
+:heavy_check_mark: Node
+
+:heavy_check_mark: Express
+
+:heavy_check_mark: Git
+
+:heavy_check_mark: Bootstrap
