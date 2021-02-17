@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Christophe a Frontend developer currently working on my tech skill. 
+## Hi there 👋 I'm Christophe a Frontend developer.
 
 ### Here are my tech stack :arrow_down:
 
